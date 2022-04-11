@@ -1,5 +1,5 @@
 # SDU
 university
-import random
+import random;
 
-print(random.randint(0,9))
+print(random.randint(5,10));
